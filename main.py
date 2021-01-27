@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import os
 import definition
 import time
+
+
 class Ycrawler:
     driver = None
 
